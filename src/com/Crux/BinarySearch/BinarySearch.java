@@ -1,4 +1,4 @@
-package com.Crux.Array1D;
+package com.Crux.BinarySearch;
 
 public class BinarySearch {
     public static void main(String[] args) {

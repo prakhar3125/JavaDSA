@@ -1,4 +1,4 @@
-package com.Crux.Sorting;
+package com.Crux.Array1D;
 
 public class twoSum {
     public static void main(String[] args) {
